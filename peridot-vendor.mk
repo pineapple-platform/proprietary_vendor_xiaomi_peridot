@@ -1601,15 +1601,12 @@ PRODUCT_PACKAGES += \
     libworker_pool \
     sensors.qsh \
     libasphere \
-<<<<<<< HEAD
-=======
     libdlbvol \
     libhwdap \
     libqcbassboost \
     libqcreverb \
     libqcvirt \
->>>>>>> e32c502 (peridot: Bring back dolby blobs)
-    libquasar \
+ libquasar \
     libshoebox \
     libspatializer \
     libswgamedap \
